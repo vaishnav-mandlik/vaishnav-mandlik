@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vaishnav</h1>
+- 🔭 I’m currently working on **Stock Price Prediction**
+
+- 🌱 I’m currently learning **ML**
+
+- 💬 Ask me about **Python**
+
+- 📫 How to reach me **vaishnavmandlik@yahoo.com**
 - 👀 I’m interested in Python
+
 - 🌱 I’m currently learning **ML**
 - 📫 How to reach me **vaishnavmandlik@yahoo.com**
 - 💬 Ask me about **Python**
