@@ -26,7 +26,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vaishnav-mandlik&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=vaishnav-mandlik&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vaishnav-mandlik&theme=dark&hide_border=false)<br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnav-mandlik&show_icons=true&locale=en&layout=compact" alt="vaishnav-mandlik" /></p>
 
