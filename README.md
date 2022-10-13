@@ -26,11 +26,8 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vaishnav-mandlik&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vaishnav-mandlik&theme=dark&hide_border=false)<br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnav-mandlik&show_icons=true&locale=en&layout=compact" alt="vaishnav-mandlik" /></p>
 
-<!---
-vaishnav-mandlik/vaishnav-mandlik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnav-mandlik&show_icons=true&theme=dark&title_color=ffffff&text_color=5274ff&cache_seconds=1800&locale=en&include_all_commits=true&count_private=true" alt="vaishnav-mandlik" /></p> | <p>&nbsp;<a href="#no_route"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnav-mandlik&layout=compact&theme=dark" /></a></p> |
+| -- | --- |
+| <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnav-mandlik&theme=dark" alt="vaishnav-mandlik" /></p> | <p align='center'><img align="center" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="vaishnav-mandlik" width='250px' height='250px'/></p> |
+
