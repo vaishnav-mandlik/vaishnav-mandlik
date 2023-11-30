@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaishnav</h1>
 <p align="center">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm a full-stack developer passionate about turning ideas into reality through coding magic. With skills in React, React Native, NodeJS, Python, and more, I craft clean and efficient solutions.<br> &nbsp; &nbsp; &nbsp; &nbsp;Let's collaborate and bring your projects to life! Open to new challenges and learning every day. Excited to build the future of technology together!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm a full-stack developer passionate about turning ideas into reality through coding magic. With skills in React, React Native, NodeJS, Python, and more, I craft clean and efficient solutions.
 </p>
 
 - 🔭 I’m currently working on **P2P file share app**
