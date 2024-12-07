@@ -42,7 +42,7 @@
 
 <h2 align="center"><i>📊 GitHub Stats</i></h2>
 
-| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnav-mandlik&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /></p> | <p>&nbsp;<a href="#no_route"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnav-mandlik&layout=compact&theme=dark" /></a></p> |
+| <p>&nbsp;<img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/vaishnav-mandlik?cardType=level&theme=dark&preferLogin=false" /></p> | <p>&nbsp;<a href="#no_route"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnav-mandlik&layout=compact&theme=dark" /></a></p> |
 | -- | --- |
-| <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnav-mandlik&theme=dark" alt="vaishnav-mandlik" /></p> | <p align='center'><img align="center" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="vaishnav-mandlik" width='250px' height='250px'/></p> |
+| <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnav-mandlik&theme=highcontrast&hide_border=false" /></p> | <p align='center'><img align="center" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="vaishnav-mandlik" width='250px' height='250px'/></p> |
 
